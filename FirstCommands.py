@@ -10,3 +10,17 @@ text = "Witaj"
 name = "Michał"
 sign = 'a'
 print(text + " " + name)
+
+# zmienne na podstawie innych zmiennych
+a = 1
+b = a + 1
+print(a, b, (a * b))
+print(a, end=';')
+print(b , end=';')
+print(a + b, end='\n')      # \n - newline
+print('www.xyz.pl\\all')    # \\ - '\'
+print('www.xyz.pl\\\\all')  # \\ - '\'
+print('"Cytat"')
+print("I'm Michal")
+print("\"Cytat\"")
+
