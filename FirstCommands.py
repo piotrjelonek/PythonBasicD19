@@ -60,3 +60,41 @@ floatNum = int(floatNum)    # konwersja zawężająca
 print(floatNum)
 intNum = 5
 print(float(intNum))        # konwersja rozszerzająca
+
+
+# Typ logiczny
+print(bool(121),bool(0))
+print(bool("dsad"),bool(""))
+print(bool(12.2),bool(0.))
+emptyTuple = ()
+print(bool((1,2,3)), bool( emptyTuple ))
+
+
+# String
+name = "Michał"     # string to ciąg znaków występujących na określonych pozycjach
+print(len(name))
+print(name[0])
+print(name[len(name) - 1])
+print(name[-1])
+# print(name[10])
+# name[3] = 'k'     # string typ niezmienny
+# print(name)
+
+name = name + " " + "KRUCZKOWSKI"
+print("ADD: " + name)
+name = name[0:6]
+print("SUB: " + name)
+
+# konwersja na string
+flag = True
+print(str(flag)[0])
+print(int(flag))
+
+help()
+
+
+
+
+
+
+
