@@ -93,6 +93,30 @@ print(int(flag))
 print(8 ** (1/3))
 print(8 ** (0.333333333))
 
+x = 1  # przepisanie wartości do obiektu
+result = (x == 1) # porównanie wartości przyjmowanej przez obiekt x z liczbą jeden
+# print(x = 1) błąd
+print(x != 1)
+print(result)
+
+name1 = "alan"
+name2 = "alaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+
+print("==",name1 == name2)
+print(">",name1 > name2)
+
+print(ord('a'), ord('A'))
+print(ord('a'), ord('n'))
+
+sumaName1 = 0
+for i in name1:
+    sumaName1 = sumaName1 + ord(i)
+print(sumaName1)
+sumaName2 = 0
+for i in name2:
+    sumaName2 += ord(i)
+print(sumaName2)
+
 
 
 
