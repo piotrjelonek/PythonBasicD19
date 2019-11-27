@@ -24,3 +24,7 @@ print('"Cytat"')
 print("I'm Michal")
 print("\"Cytat\"")
 
+# usuwanie obiektu z pamięci podręcznej
+del(a)
+# print(a) -> a is not defined
+
