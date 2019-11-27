@@ -90,7 +90,8 @@ flag = True
 print(str(flag)[0])
 print(int(flag))
 
-help()
+print(8 ** (1/3))
+print(8 ** (0.333333333))
 
 
 
