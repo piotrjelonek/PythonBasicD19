@@ -118,3 +118,25 @@ kik.insert(0,["*","*","*"])
 kik = [["^","^","^"]] + kik
 print(kik)
 print(len(kik))
+
+
+tupleType = (1,2,3,4,5)
+# tupleType[1] = 55   # krotka jest typem niezmiennym
+print(tupleType)
+a = [1,2]
+multiDimTuple = (a, [3,4], [5,6])
+# multiDimTuple[0] = 1
+multiDimTuple[0].append('X')
+multiDimTuple[0][0] = 2
+print(multiDimTuple)
+a.append(5)
+print(multiDimTuple)
+print(id(a))
+print(id(multiDimTuple[0]))
+
+a1 = 1
+a2 = a1
+a1 = 2
+print(id(a1), id(a2), a1, a2)
+
+
