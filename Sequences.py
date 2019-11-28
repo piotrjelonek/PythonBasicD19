@@ -154,10 +154,34 @@ print(products)
 print(products.keys())
 print(products.values())
 
+# Zbiory
+A = set([1,2,3,4,5,6])
+B = set([4,5,6,7,8])
 
+print("suma", A | B)
+print("część wspólna", A & B)
+print("różnica A-B", A - B)
+print("różnica B-A", B - A)
+print("różnica symetryczna", B ^ A) # suma - część wspólna
 
+# Dla zdania wprowadzonego przez użytkownika sprawdź ile jest unikatowych słów
+# zakładamy że w zdaniu nie wysępują znaki interpunkcyjne
+# sentence = input("wpisz zdanie").upper()
+# words = sentence.split(" ")
+# uniqueWords = set(words)
+# print("Ilość unikatowych słów: ", len(uniqueWords))
+# print("Ilość powtórzeń słów: ", len(words) - len(uniqueWords))
 
-
+S = set([1,2,3])
+L = ['a','a','A']
+D = {'a' : 11, 'b' : 11, 'c' : 1}
+print(S)
+print(list(S))
+print(set(L))
+print(D)
+print(set(D))
+print(set(D.keys()))
+print(set(D.values()))
 
 
 
