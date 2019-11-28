@@ -140,3 +140,31 @@ a1 = 2
 print(id(a1), id(a2), a1, a2)
 
 
+#Słowniki
+products = {}
+# dodanie nowego produktu
+products["0x111"] = "Pamięć RAM 8GB"
+products["0x112"] = "Pamięć RAM 16GB"
+products["0x222"] = [1,"PC", "Intel i5 8gen", 700]
+# modyfikacja pamięci ram
+products["0x112"] += " NEW"
+products[None] = "xxx"
+print(products[None])
+print(products)
+print(products.keys())
+print(products.values())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -4,7 +4,7 @@ while(True):
     inputDate = input("wprowadź datę w formacie (DD-MM-YYYY) lub Q-wyjdź")
     if(inputDate.upper()[0] == "Q"):
         break
-    dates.append(inputDate.split("-"))
+    dates.append(tuple(inputDate.split("-")))
 
 print(dates)
 #
