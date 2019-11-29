@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ca2d03c-e91d-4778-abcf-5fc9cfd9d2f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loops.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +17,7 @@
     <SUITE FILE_PATH="coverage/PythonBasicD19$P1.coverage" NAME="P1 Coverage Results" MODIFIED="1574846763045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/P1" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P4.coverage" NAME="P4 Coverage Results" MODIFIED="1574847379759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/P4" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P19.coverage" NAME="P19 Coverage Results" MODIFIED="1574858817336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/P19" />
-    <SUITE FILE_PATH="coverage/PythonBasicD19$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1575018535996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonBasicD19$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1575023960933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P34.coverage" NAME="P34 Coverage Results" MODIFIED="1574936824143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercisesD2/P34" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P36.coverage" NAME="P36 Coverage Results" MODIFIED="1574937177740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercisesD2/P36" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P33.coverage" NAME="P33 Coverage Results" MODIFIED="1574869268459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/P33" />
@@ -42,6 +41,7 @@
     <SUITE FILE_PATH="coverage/PythonBasicD19$P46.coverage" NAME="P46 Coverage Results" MODIFIED="1574954793421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercisesD2/P46" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$Sequences.coverage" NAME="Sequences Coverage Results" MODIFIED="1574945668005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$ConditionalInstructions.coverage" NAME="ConditionalInstructions Coverage Results" MODIFIED="1574951488044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonBasicD19$P50.coverage" NAME="P50 Coverage Results" MODIFIED="1575023996875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exerciseD3/P50" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P26.coverage" NAME="P26 Coverage Results" MODIFIED="1574866416488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/P26" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P49.coverage" NAME="P49 Coverage Results" MODIFIED="1574954995515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercisesD2/P49" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P32.coverage" NAME="P32 Coverage Results" MODIFIED="1574867782453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/P32" />
@@ -63,15 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sequences.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4941">
-              <caret line="183" column="20" selection-start-line="183" selection-start-column="20" selection-end-line="183" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercisesD2/P42/P42.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,11 +99,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Loops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+            <state relative-caret-position="113">
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding>
+                <element signature="e#28#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -147,8 +141,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercisesD2/P38/P38.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="43" selection-start-column="43" selection-end-column="43" />
+            <state relative-caret-position="81">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exerciseD3/P50/P50.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -212,6 +215,7 @@
         <option value="$PROJECT_DIR$/exercisesD2/P46/P46.py" />
         <option value="$PROJECT_DIR$/exercisesD2/P49/P49.py" />
         <option value="$PROJECT_DIR$/Loops.py" />
+        <option value="$PROJECT_DIR$/exerciseD3/P50/P50.py" />
       </list>
     </option>
   </component>
@@ -237,6 +241,17 @@
             <path>
               <item name="PythonBasicD19" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonBasicD19" type="462c0819:PsiDirectoryNode" />
+              <item name="exerciseD3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonBasicD19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonBasicD19" type="462c0819:PsiDirectoryNode" />
+              <item name="exerciseD3" type="462c0819:PsiDirectoryNode" />
+              <item name="P50" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonBasicD19" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonBasicD19" type="462c0819:PsiDirectoryNode" />
               <item name="exercisesD2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -252,7 +267,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MPL" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -271,29 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Loops">
-    <configuration name="ConditionalInstructions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonBasicD19" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ConditionalInstructions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.P50">
     <configuration name="Loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBasicD19" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -382,13 +375,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="P50" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonBasicD19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exerciseD3/P50" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exerciseD3/P50/P50.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.P50" />
         <item itemvalue="Python.Loops" />
         <item itemvalue="Python.P49" />
         <item itemvalue="Python.P46" />
         <item itemvalue="Python.P42" />
-        <item itemvalue="Python.ConditionalInstructions" />
       </list>
     </recent_temporary>
   </component>
@@ -404,22 +419,23 @@
       <updated>1574843360069</updated>
       <workItem from="1574843365698" duration="26321000" />
       <workItem from="1574886658295" duration="25416000" />
-      <workItem from="1574956894914" duration="4977000" />
+      <workItem from="1574956894914" duration="9423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56714000" />
+    <option name="totallyTimeSpent" value="61160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1296" height="776" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15875614" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27414075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.03241491" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.081037275" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.19286872" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -680,17 +696,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercisesD2/P38/P38.py">
+    <entry file="file://$PROJECT_DIR$/Loops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        <state relative-caret-position="113">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#28#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Loops.py">
+    <entry file="file://$PROJECT_DIR$/exercisesD2/P38/P38.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        <state relative-caret-position="81">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exerciseD3/P50/P50.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
