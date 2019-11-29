@@ -15,10 +15,11 @@ while(True):
     # wyjście z programu
     if(choice.upper() == "Q"):
         print("Wyjście")
+        print("Suma do zapłaty:", cumSum, "zł")
         break
     # spr czy istnieje taki id
     if(choice not in products.keys()):
-        print("Wie ma takiego produktu")
+        print("Nie ma takiego produktu")
         continue
     while(True):
         # łapanie wyjątku gdy użytkownik wprowadzi wartość nieliczbową
@@ -37,6 +38,5 @@ while(True):
     products[choice][2] -= quantity # products[choice][2] = products[choice][2] - quantity
     basket.append([products[choice][0],products[choice][1], quantity])
     # suma skumulowana zamówień w koszyku
-    cumSum += quantity * products[choice][1]
+    cumSum = cumSum + (quantity * products[choice][1])
     print("Twój koszyk:", basket)
-    print("Suma do zapłaty:", cumSum, "zł")
