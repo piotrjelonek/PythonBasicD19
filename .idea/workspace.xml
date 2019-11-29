@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ca2d03c-e91d-4778-abcf-5fc9cfd9d2f2" name="Default Changelist" comment="" />
+    <list default="true" id="3ca2d03c-e91d-4778-abcf-5fc9cfd9d2f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/exerciseD3/P50/P50.py" beforeDir="false" afterPath="$PROJECT_DIR$/exerciseD3/P50/P50.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,7 @@
     <SUITE FILE_PATH="coverage/PythonBasicD19$P16.coverage" NAME="P16 Coverage Results" MODIFIED="1574855059070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/P16" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P27.coverage" NAME="P27 Coverage Results" MODIFIED="1574866663644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/P27" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P10.coverage" NAME="P10 Coverage Results" MODIFIED="1574852153438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/P10" />
-    <SUITE FILE_PATH="coverage/PythonBasicD19$StringFormatting.coverage" NAME="StringFormatting Coverage Results" MODIFIED="1575028249137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonBasicD19$StringFormatting.coverage" NAME="StringFormatting Coverage Results" MODIFIED="1575028652629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P12.coverage" NAME="P12 Coverage Results" MODIFIED="1574852922120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/P12" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P41.coverage" NAME="P41 Coverage Results" MODIFIED="1574944162740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercisesD2/P41" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$FirstCommands.coverage" NAME="FirstCommands Coverage Results" MODIFIED="1574865841187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -40,7 +42,7 @@
     <SUITE FILE_PATH="coverage/PythonBasicD19$P46.coverage" NAME="P46 Coverage Results" MODIFIED="1574954793421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercisesD2/P46" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$Sequences.coverage" NAME="Sequences Coverage Results" MODIFIED="1574945668005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$ConditionalInstructions.coverage" NAME="ConditionalInstructions Coverage Results" MODIFIED="1574951488044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonBasicD19$P50.coverage" NAME="P50 Coverage Results" MODIFIED="1575027072631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exerciseD3/P50" />
+    <SUITE FILE_PATH="coverage/PythonBasicD19$P50.coverage" NAME="P50 Coverage Results" MODIFIED="1575029916524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exerciseD3/P50" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P26.coverage" NAME="P26 Coverage Results" MODIFIED="1574866416488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/P26" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P49.coverage" NAME="P49 Coverage Results" MODIFIED="1574954995515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercisesD2/P49" />
     <SUITE FILE_PATH="coverage/PythonBasicD19$P32.coverage" NAME="P32 Coverage Results" MODIFIED="1574867782453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises/P32" />
@@ -137,20 +139,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exerciseD3/P50/P50.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+            <state relative-caret-position="299">
+              <caret line="47" column="64" lean-forward="true" selection-start-line="47" selection-start-column="64" selection-end-line="47" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StringFormatting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+            <state relative-caret-position="289">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -214,8 +216,8 @@
         <option value="$PROJECT_DIR$/exercisesD2/P46/P46.py" />
         <option value="$PROJECT_DIR$/exercisesD2/P49/P49.py" />
         <option value="$PROJECT_DIR$/Loops.py" />
-        <option value="$PROJECT_DIR$/exerciseD3/P50/P50.py" />
         <option value="$PROJECT_DIR$/StringFormatting.py" />
+        <option value="$PROJECT_DIR$/exerciseD3/P50/P50.py" />
       </list>
     </option>
   </component>
@@ -275,7 +277,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.StringFormatting">
+  <component name="RunManager" selected="Python.P50">
     <configuration name="Loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonBasicD19" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -388,8 +390,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.StringFormatting" />
         <item itemvalue="Python.P50" />
+        <item itemvalue="Python.StringFormatting" />
         <item itemvalue="Python.Loops" />
         <item itemvalue="Python.P49" />
         <item itemvalue="Python.P46" />
@@ -408,23 +410,23 @@
       <updated>1574843360069</updated>
       <workItem from="1574843365698" duration="26321000" />
       <workItem from="1574886658295" duration="25416000" />
-      <workItem from="1574956894914" duration="13564000" />
+      <workItem from="1574956894914" duration="15278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65301000" />
+    <option name="totallyTimeSpent" value="67015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27414075" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27414075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4554295" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33225283" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.19286872" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -702,17 +704,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exerciseD3/P50/P50.py">
+    <entry file="file://$PROJECT_DIR$/StringFormatting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        <state relative-caret-position="289">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StringFormatting.py">
+    <entry file="file://$PROJECT_DIR$/exerciseD3/P50/P50.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        <state relative-caret-position="299">
+          <caret line="47" column="64" lean-forward="true" selection-start-line="47" selection-start-column="64" selection-end-line="47" selection-end-column="64" />
         </state>
       </provider>
     </entry>

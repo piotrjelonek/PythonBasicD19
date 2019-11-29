@@ -8,14 +8,17 @@ cumSum = 0
 # CLI użytkownika
 while(True):
     # pętla wypisująca produkty
+    print("| %3s | %10s | %10s | %5s |"
+          % ("ID", "NAZWA", "CENA", "ILOŚC"))
     for key in products.keys():
-        print(key, products[key])
+        print("| %3s | %10s | %8.2fzł | %5.1f |"
+              % (key, products[key][0], products[key][1], products[key][2]))
     # pobieranie danych od użytkownika
     choice = input("Co chcesz zamówić podaj id produktu lub Q-wyjście")
     # wyjście z programu
     if(choice.upper() == "Q"):
         print("Wyjście")
-        print("Suma do zapłaty:", cumSum, "zł")
+        print("Suma do zapłaty: %.2f zł" % cumSum)
         break
     # spr czy istnieje taki id
     if(choice not in products.keys()):
@@ -39,4 +42,7 @@ while(True):
     basket.append([products[choice][0],products[choice][1], quantity])
     # suma skumulowana zamówień w koszyku
     cumSum = cumSum + (quantity * products[choice][1])
-    print("Twój koszyk:", basket)
+    print("Twój koszyk:")
+    for element in basket:
+        print("| %10s | %8.2fzł | %5.1f |"
+              % (element[0].center(10), element[1], element[2]))
