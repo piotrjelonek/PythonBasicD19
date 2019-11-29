@@ -20,11 +20,19 @@ while(True):
     if(choice not in products.keys()):
         print("Wie ma takiego produktu")
         continue
-    quantity = float(input("Wprowadź ilość zamawianego produktu"))
-    # sprawdzenie dostępności produktu
-    if(quantity > products[choice][2] and quantity > 0):
-        print("Dostępnych jest tylko: " + str(products[choice][2]) + "szt.")
-        continue
+    while(True):
+        # łapanie wyjątku gdy użytkownik wprowadzi wartość nieliczbową
+        try:
+            quantity = float(input("Wprowadź ilość zamawianego produktu"))
+        except:
+            print("Błędny typ danych wprowadź liczbę!")
+            continue
+        # sprawdzenie dostępności produktu
+        if(quantity > products[choice][2] and quantity >= 0):
+            print("Dostępnych jest tylko: " + str(products[choice][2]) + "szt.")
+            continue
+        else:
+            break
     # aktualizacja magazynu i koszyka
     products[choice][2] -= quantity # products[choice][2] = products[choice][2] - quantity
     basket.append([products[choice][0],products[choice][1], quantity])
